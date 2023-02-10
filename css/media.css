@@ -1,0 +1,1172 @@
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  /* header start */
+  header {
+    padding: 10px 0;
+  }
+  .logo_img {
+    width: 37%;
+  }
+  .nav_menu {
+    margin-top: 10px;
+  }
+  .nav_menu ul li {
+    margin: -4px 0px;
+  }
+  .nav_menu ul li a {
+    font-size: 16px;
+  }
+  .btn_common {
+    padding: 3px 15px;
+    font-size: 18px;
+  }
+  /* header end */
+  /* banner start */
+  .banner {
+    padding: 0px 0 50px;
+  }
+  .h_img {
+    margin-top: 20px;
+  }
+  .b_img {
+    width: 60%;
+  }
+  .h_m {
+    margin-bottom: 30px;
+  }
+  .h_m h1 {
+    font-size: 45px;
+  }
+  .h_m p {
+    font-size: 15px;
+  }
+  .h_t {
+    width: 260px;
+  }
+  .b_tt {
+    margin-bottom: 20px;
+    padding: 20px;
+  }
+  .upper_gap {
+    width: 100px;
+  }
+  .lower_gap {
+    width: 100px;
+  }
+  .common_h2 {
+    font-size: 20px;
+  }
+  .b_tt p {
+    font-size: 14px;
+  }
+  .btn_lm {
+    width: 260px;
+  }
+  /* banner end */
+  /* slider start */
+  .slider {
+    padding: 70px 0;
+  }
+  .s_mb{
+    display: none;
+  }
+  .p_text {
+    margin: 0px 0px;
+    padding: 25px 20px;
+  }
+  .p_text p {
+    font-size: 14px;
+  }
+  .p_b, .p_n {
+    top: 180px;
+    width: 14%;
+    height: 20%;
+  }
+  .p_b{
+    left: 100px;
+  }
+  .p_n{
+    right: 100px;
+  }
+  .b_icon {
+    font-size: 22px;
+  } 
+  /* slider end */
+  /* importent section start */
+  .importent {
+    margin: 25px 0 40px;
+  }
+  .im_text h1 {
+    font-size: 31px;
+  }
+  .im_text p {
+    margin: 5px 0 20px;
+    padding-right: 0px;
+    font-size: 14px;
+  }
+  .btn_im {
+    padding: 3px 28px !important;
+    font-size: 15px;
+  }
+  
+  /* importent section end */
+  /* feature start */
+  .feature {
+    padding-bottom: 60px;
+  }
+  .fh_text {
+    margin-bottom: 10px;
+  }
+  .fh_text h1 {
+    font-size: 32px;
+  }
+  .f_b {
+    margin: 10px 0px 0px;
+    padding: 5px 5px;
+  }
+  .left_blank {
+    margin: 30px -12px -105px;
+    height: 65px;
+  }
+  .right_blank{
+    margin: -105px 281px 30px;
+    height: 65px;
+  }
+  .p_icon {
+    margin-top: 25px;
+    padding: 0px;
+  }
+  .icon_b {
+    font-size: 58px;
+  }
+  .p_icon_text {
+    padding: 15px 10px 15px 0px;
+  }
+  .p_icon_text h2 {
+    padding-bottom: 3px;
+    font-size: 20px;
+  }
+  .p_icon_text p {
+    font-size: 14px;
+    line-height: 14px;
+  }
+  .pera_text {
+    margin-top: 40px;
+  }
+  .pera_text p {
+    font-size: 15px;
+    line-height: 16px;
+    text-align: justify;
+  }
+  /* feature end */
+  /* schedule start */
+  .schedule {
+    padding: 110px 0 50px;
+  }
+  .s_border {
+    border: 5px solid #4354a4;
+  }
+  .ss_f {
+    padding: 0px 10px;
+  }
+  .u_mosque img {
+    margin-top: -126px;
+    width: 60%;
+  }
+  .ss_f p {
+    font-size: 15px;
+    line-height: 18px;
+  }
+  .se_btn {
+    margin-top: 6px;
+    width: 290px;
+  }
+  .btn_padding {
+    padding: 30px 0;
+  }
+  .moon_icon {
+    margin: 0 auto -32px;
+    width: 70px;
+  }
+  .moon_icon i {
+    font-size: 40px;
+  }
+  /* schedule end */
+  /* tips start */
+  .tips {
+    margin: 0px 0 30px;
+  }
+  .t_h {
+    margin-top: 0px;
+  }
+  .t_h h1 {
+    margin-bottom: 5px;
+    font-size: 31px;
+    text-align: center;
+  }
+  .t_h p {
+    font-size: 15px;
+    margin-bottom: 20px;
+    text-align: center;
+    line-height: 19px;
+    word-spacing: 0px;
+  }
+  .tips_one {
+    padding: 15px;
+  }
+  .tips_one h1 {
+    font-size: 45px;
+  }
+  .tips_one hr {
+    margin: 6px 0;
+  }
+  .tips_one h2 {
+    font-size: 21px;
+  }
+  .tips_one p {
+    margin-top: 5px;
+    font-size: 15px;
+    line-height: 18px;
+  }
+  /* tips end */
+  /* mosque day start */
+  .mosque_day {
+    margin-bottom: 50px;
+    height: 200px;
+  }
+  .mosq_text {
+    margin-top: 20px;
+  }
+  .mosq_text h1 {
+    font-size: 19px;
+  }
+  .mosq_text p {
+    margin: 8px 5px 0px;
+    font-size: 9px;
+    line-height: 9px;
+  }
+  .mosq_text a {
+    margin-top: 15px;
+  }
+  .mos_btn {
+    padding: 1px;
+    width: 94px;
+    height: 20px;
+    font-size: 9px;
+  }
+  /* mosque day end */
+  /* testimonial start */
+  .testimonial {
+    padding-bottom: 40px
+  }
+  .t_div {
+    padding: 10px;
+  }
+  .t_heading h1 {
+    font-size: 30px;
+  }
+  .t_pera p {
+    margin: 0 0px;
+    font-size: 14px;
+    line-height: 15px;
+  }
+  /* testimonial end */
+  /* form start */
+  .form {
+    padding-bottom: 50px;
+  }
+  .f_heading {
+    margin-bottom: 20px;
+    width: 100%;
+    text-align: center;
+  }
+  .f_heading h1 {
+    font-size: 34px;
+    line-height: 40px;
+  }
+  .f_c {
+    margin-bottom: 20px;
+    padding: 5px 0 5px 20px;
+    width: 100%;
+  }
+  .f_c::placeholder{
+    font-size: 16px;
+  }
+  .f_button {
+    padding: 5px 30px;
+    width: 100%;
+    font-size: 18px;
+  }
+  /* form end */
+  /* footer start */
+  .footer {
+    padding: 30px 0;
+  }
+  .fo_h {
+    font-size: 42px;
+  }
+  .fo_a {
+    margin: 22px 0 0 27px;
+  }
+  .fo_a p {
+    margin-bottom: 10px;
+  }
+  .fo_a p a {
+    font-size: 14px;
+  }
+  footer p {
+    padding: 14px;
+    font-size: 10px;
+  }
+  /* footer end */
+}
+
+/*  Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /* header start */
+  header {
+    padding: 15px 0;
+  }
+  .logo_img {
+    width: 70%;
+  }
+  .nav_menu {
+    margin-top: 10px;
+  }
+  .nav_menu ul li {
+    margin: -4px 0px;
+  }
+  .nav_menu ul li a {
+    font-size: 16px;
+  }
+  .btn_common {
+    padding: 5px 20px;
+    font-size: 18px;
+  }
+  /* header end */
+  /* banner start */
+  .banner {
+    padding: 0px 0 50px;
+  }
+  .h_img {
+    margin-top: 30px;
+  }
+  .b_img {
+    width: 50%;
+  }
+  .h_m {
+    margin-bottom: 30px;
+  }
+  .h_m h1 {
+    font-size: 75px;
+  }
+  /* banner end */
+  /* slider start */
+  .slider {
+    padding: 70px 0;
+  }
+  .s_mb{
+    display: none;
+  }
+  .p_text {
+    margin: 0px 0px;
+    padding: 25px 40px;
+  }
+  .p_text p {
+    font-size: 16px;
+  }
+  .p_b, .p_n {
+    top: 180px;
+    width: 14%;
+    height: 20%;
+  }
+  .p_b{
+    left: 100px;
+  }
+  .p_n{
+    right: 100px;
+  }
+  .b_icon {
+    font-size: 22px;
+  } 
+  /* slider end */
+  /* importent section start */
+  .importent {
+    margin: 40px 0 70px;
+  }
+  .im_text h1 {
+    font-size: 54px;
+  }
+  .im_text p {
+    margin: 10px 0 36px;
+    padding-right: 140px;
+  }
+  .btn_im {
+    padding: 5px 50px !important;
+  }
+  
+  /* importent section end */
+  /* feature start */
+  .feature {
+    padding-bottom: 80px;
+  }
+  .fh_text {
+    margin-bottom: 15px;
+  }
+  .fh_text h1 {
+    font-size: 50px;
+  }
+  .f_b {
+    margin: 20px 5px 0px;
+    padding: 10px 10px;
+  }
+  .left_blank {
+    margin: 20px -16px -95px;
+    height: 65px;
+  }
+  .right_blank{
+    margin: -95px 486px 20px;
+    height: 65px;
+  }
+  .p_icon {
+    margin-top: 15px;
+    padding: 0px;
+  }
+  .icon_b {
+    font-size: 70px;
+  }
+  .p_icon_text {
+    padding: 15px 10px 15px 0px;
+  }
+  .p_icon_text h2 {
+    padding-bottom: 5px;
+    font-size: 25px;
+  }
+  .p_icon_text p {
+    font-size: 15px;
+    line-height: 16px;
+  }
+  .pera_text {
+    margin-top: 40px;
+  }
+  .pera_text p {
+    font-size: 15px;
+    text-align: justify;
+  }
+  /* feature end */
+  /* schedule start */
+  .schedule {
+    padding: 110px 0 80px;
+  }
+  .ss_f {
+    padding: 0px 20px;
+  }
+  .u_mosque img {
+    margin-top: -166px;
+    width: 50%;
+  }
+  .se_btn {
+    width: 210px;
+  }
+  .btn_padding {
+    padding: 30px 0;
+  }
+  .moon_icon {
+    margin: 0 auto -40px;
+    width: 90px;
+  }
+  .moon_icon i {
+    font-size: 50px;
+  }
+  /* schedule end */
+  /* tips start */
+  .tips {
+    margin: 0px 0 30px;
+  }
+  .t_h {
+    margin-top: 0px;
+  }
+  .t_h h1 {
+    margin-bottom: 10px;
+    font-size: 48px;
+    text-align: center;
+  }
+  .t_h p {
+    margin-bottom: 30px;
+    text-align: center;
+    line-height: 20px;
+    word-spacing: -1px;
+  }
+  .tips_one {
+    padding: 15px;
+  }
+  .tips_one h1 {
+    font-size: 45px;
+  }
+  .tips_one hr {
+    margin: 6px 0;
+  }
+  .tips_one h2 {
+    font-size: 29px;
+  }
+  .tips_one p {
+    margin-top: 10px;
+    line-height: 20px;
+  }
+  /* tips end */
+  /* mosque day start */
+  .mosque_day {
+    margin-bottom: 60px;
+    height: 360px;
+  }
+  .mosq_text {
+    margin-top: 20px;
+  }
+  .mosq_text h1 {
+    font-size: 40px;
+  }
+  .mosq_text p {
+    margin: 8px 0px 0px;
+    font-size: 15px;
+    line-height: 14px;
+  }
+  .mosq_text a {
+    margin-top: 15px;
+  }
+  .mos_btn {
+    padding: 1px;
+    width: 156px;
+    height: 30px;
+    font-size: 16px;
+  }
+  /* mosque day end */
+  /* testimonial start */
+  .testimonial {
+    padding-bottom: 80px
+  }
+  .t_div {
+    padding: 20px;
+  }
+  .t_heading h1 {
+    font-size: 35px;
+  }
+  .t_pera p {
+    margin: 0 0px;
+    font-size: 15px;
+    line-height: 16px;
+  }
+  /* testimonial end */
+  /* form start */
+  .form {
+    padding-bottom: 70px;
+  }
+  .form_img {
+    text-align: center !important;
+  }
+  .form_img img {
+    width: 30%;
+  }
+  .f_heading {
+    margin-bottom: 20px;
+    width: 100%;
+    text-align: center;
+  }
+  .f_heading h1 {
+    font-size: 44px;
+    line-height: 50px;
+  }
+  .f_c {
+    margin-bottom: 20px;
+    padding: 5px 0 5px 20px;
+    width: 100%;
+  }
+  .f_c::placeholder{
+    font-size: 16px;
+  }
+  .f_button {
+    padding: 5px 30px;
+    width: 100%;
+    font-size: 18px;
+  }
+  /* form end */
+  /* footer start */
+  .footer {
+    padding: 60px 0;
+  }
+  .fo_h {
+    font-size: 65px;
+  }
+  .fo_a {
+    margin: 30px 0 0 70px;
+  }
+  .fo_a p {
+    margin-bottom: 15px;
+  }
+  .fo_a p a {
+    font-size: 17px;
+  }
+  footer p {
+    padding: 18px;
+    font-size: 15px;
+  }
+  /* footer end */
+}
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  /* header start */
+  header {
+    padding: 20px 0;
+  }
+  .nav_menu {
+    margin-top: 15px;
+  }
+  .nav_menu ul li {
+    margin: 0 0px;
+  }
+  .nav_menu ul li a {
+    font-size: 18px;
+  }
+  .btn_common {
+    padding: 8px 30px;
+  }
+  /* header end */
+  /* banner start */
+  .banner {
+    padding: 0px 0 70px;
+  }
+  .h_img {
+    margin-top: 30px;
+  }
+  .h_m {
+    margin-bottom: 30px;
+  }
+  .h_m h1 {
+    font-size: 84px;
+  }
+  /* banner end */
+  /* slider start */
+  .p_text {
+    margin: 0px 0px;
+    padding: 15px 10px;
+  }
+  .p_b, .p_n {
+    top: 230px;
+    width: 6%;
+    height: 16%;
+  }
+  .p_b{
+    left: 300px;
+  }
+  .p_n{
+    right: 300px;
+  }
+  .b_icon {
+    font-size: 22px;
+  } 
+  /* slider end */
+  /* importent section start */
+  .importent {
+    margin: 60px 0 90px;
+  }
+  .im_text h1 {
+    font-size: 52px;
+  }
+  .im_text p {
+    margin: 10px 0 36px;
+    padding-right: 62px;
+  }
+  .btn_im {
+    padding: 5px 50px !important;
+  }
+  .im_img {
+    margin-top: 176px;
+  }
+  .im_img img {
+    width: 100%;
+  }
+  /* importent section end */
+  /* feature start */
+  .feature {
+    padding-bottom: 120px;
+  }
+  .fh_text {
+    margin-bottom: 20px;
+  }
+  .fh_text h1 {
+    font-size: 60px;
+  }
+  .f_b {
+    margin: 20px 5px 0px;
+    padding: 10px 10px;
+  }
+  .left_blank {
+    margin: 20px -16px -95px;
+    height: 65px;
+  }
+  .right_blank{
+    margin: -95px 666px 20px;
+    height: 65px;
+  }
+  .p_icon {
+    padding: 7px;
+  }
+  .icon_b {
+    font-size: 75px;
+  }
+  .p_icon_text {
+    padding: 15px 22px 15px 0px;
+  }
+  .p_icon_text h2 {
+    padding-bottom: 8px;
+    font-size: 28px;
+  }
+  .p_icon_text p {
+    line-height: 18px;
+  }
+  .pera_text {
+    margin-top: 50px;
+  }
+  /* feature end */
+  /* schedule start */
+  .schedule {
+    padding: 130px 0 100px;
+  }
+  .ss_f {
+    padding: 5px 45px;
+  }
+  .u_mosque img {
+    width: 50%;
+    margin-top: -213px;
+  }
+  .moon_icon {
+    margin: 0 auto -47px;
+    width: 110px;
+  }
+  .moon_icon i {
+    font-size: 60px;
+  }
+  /* schedule end */
+  /* tips start */
+  .tips {
+    margin: 0px 0 30px;
+  }
+  .t_h {
+    margin-top: 0px;
+  }
+  .t_h h1 {
+    margin-bottom: 15px;
+    font-size: 62px;
+    text-align: center;
+  }
+  .t_h p {
+    margin-bottom: 40px;
+    text-align: center;
+  }
+  .tips_one {
+    padding: 26px;
+  }
+  .tips_one h1 {
+    font-size: 55px;
+  }
+  .tips_one hr {
+    margin: 6px 0;
+  }
+  .tips_one h2 {
+    font-size: 29px;
+  }
+  .tips_one p {
+    margin-top: 10px;
+    line-height: 20px;
+  }
+  /* tips end */
+  /* mosque day start */
+  .mosque_day {
+    margin-bottom: 75px;
+    height: 480px;
+  }
+  .mosq_text {
+    margin-top: 40px;
+  }
+  .mosq_text h1 {
+    font-size: 50px;
+  }
+  .mosq_text p {
+    margin: 8px 25px 0px;
+    line-height: 18px;
+  }
+  .mosq_text a {
+    margin-top: 15px;
+  }
+  .mos_btn {
+    padding: 3px;
+    width: 250px;
+    height: 40px;
+  }
+  /* mosque day end */
+  /* testimonial start */
+  .testimonial {
+    padding-bottom: 100px
+  }
+  .t_icon {
+    margin: 0px -69px -108px;
+    width: 75px;
+  }
+  .t_div {
+    padding: 35px;
+    border: 3px solid #4354a4;
+  }
+  .t_heading h1 {
+    font-size: 35px;
+  }
+  .t_pera p {
+    margin: 0 0px;
+    font-size: 15px;
+    line-height: 16px;
+  }
+  .t_icon {
+    margin: 0px -75px -108px;
+  }
+  .t_icon i {
+    font-size: 72px;
+  }
+  /* testimonial end */
+  /* form start */
+  .f_heading {
+    margin-bottom: 20px;
+    width: 100%;
+  }
+  .f_heading h1 {
+    font-size: 44px;
+    line-height: 50px;
+  }
+  .f_c {
+    margin-bottom: 20px;
+    padding: 5px 0 5px 20px;
+    width: 100%;
+  }
+  .f_c::placeholder{
+    font-size: 16px;
+  }
+  .f_button {
+    padding: 5px 30px;
+    width: 100%;
+    font-size: 18px;
+  }
+  /* form end */
+  /* footer start */
+  .footer {
+    padding: 80px 0;
+  }
+  .fo_h {
+    font-size: 77px;
+  }
+  .fo_a {
+    margin: 50px 0 0 30px;
+  }
+  .fo_a p a {
+    font-size: 18px;
+  }
+  footer p {
+    padding: 20px;
+    font-size: 16px;
+  }
+  /* footer end */
+}
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  /* header start */
+  .nav_menu ul li {
+    margin: 0 6px;
+  }
+  .nav_menu ul li a {
+    font-size: 18px;
+  }
+  .btn_common {
+    padding: 8px 30px;
+  }
+  /* header end */
+  /* banner start */
+  .banner {
+    padding: 0px 0 70px;
+  }
+  .h_m h1 {
+    font-size: 76px;
+  }
+  /* banner end */
+  /* slider start */
+  .p_text {
+    margin: 0px 5px;
+    padding: 20px 30px;
+  }
+  .p_b, .p_n {
+    top: 80px;
+  }
+  .p_b{
+    left: -18px;
+  }
+  .p_n{
+    right: -18px;
+  } 
+  /* slider end */
+  /* importent section start */
+  .importent {
+    margin: 100px 0 120px;
+  }
+  .im_text h1 {
+    font-size: 52px;
+  }
+  .im_text p {
+    margin: 10px 0 36px;
+    padding-right: 62px;
+  }
+  .btn_im {
+    padding: 5px 50px !important;
+  }
+  .im_img img {
+    width: 86%;
+  }
+  /* importent section end */
+  /* feature start */
+  .feature {
+    padding-bottom: 120px;
+  }
+  .f_b {
+    margin: 20px 5px 0px;
+    padding: 10px 10px;
+  }
+  .left_blank {
+    margin: 39px -16px -108px;
+    height: 65px;
+  }
+  .right_blank{
+    margin: -108px 427px 33px;
+    height: 65px;
+  }
+  .p_icon {
+    padding: 7px;
+  }
+  .icon_b {
+    font-size: 75px;
+  }
+  .p_icon_text {
+    padding: 15px 22px 15px 0px;
+  }
+  .p_icon_text h2 {
+    font-size: 26px;
+  }
+  .p_icon_text p {
+    line-height: 18px;
+  }
+  /* feature end */
+  /* schedule start */
+  .schedule {
+    padding: 240px 0 120px;
+  }
+  .ss_f {
+    padding: 15px;
+  }
+  /* schedule end */
+  /* tips start */
+  .tips {
+    margin: 40px 0 50px;
+  }
+  .t_h {
+    margin-top: 35px;
+  }
+  .t_h h1 {
+    font-size: 57px;
+    margin-bottom: 20px;
+  }
+  .tips_one {
+    padding: 26px;
+  }
+  .tips_one h1 {
+    font-size: 57px;
+  }
+  .tips_one h2 {
+    font-size: 29px;
+  }
+  .tips_one p {
+    margin-top: 25px;
+    line-height: 22px;
+  }
+  /* tips end */
+  /* mosque day start */
+  .mosque_day {
+    margin-bottom: 90px;
+    height: 640px;
+  }
+  .mosq_text {
+    margin-top: 100px;
+  }
+  .mosq_text h1 {
+    font-size: 60px;
+  }
+  .mosq_text p {
+    margin: 15px 25px 15px;
+    line-height: 20px;
+  }
+  .mosq_text a {
+    margin-top: 25px;
+  }
+  /* mosque day end */
+  /* testimonial start */
+  .t_icon {
+    margin: 25px -75px -144px;
+  }
+  .t_heading h1 {
+    font-size: 45px;
+  }
+  .t_pera p {
+    margin: 0 10px;
+    line-height: 18px;
+  }
+  .t_icon {
+    margin: 0px -75px -108px;
+  }
+  .t_icon i {
+    font-size: 80px;
+  }
+  /* testimonial end */
+  /* form start */
+  .f_c {
+    margin-bottom: 29px;
+  }
+  /* form end */
+  /* footer start */
+  .footer {
+    padding: 100px 0;
+  }
+  .fo_h {
+    font-size: 77px;
+  }
+  .fo_a {
+    margin: 60px 0 0 0px;
+  }
+  .fo_a p a {
+    font-size: 18px;
+  }
+  footer p {
+    padding: 34px;
+    font-size: 18px;
+  }
+  /* footer end */
+}
+
+ /* Extra Large devices (desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  /* slider start */
+  .p_text {
+    margin: 0px 15px;
+    padding: 30px 26px;
+  }
+  .p_b, .p_n {
+    top: 80px;
+  }
+  .p_b{
+    left: -18px;
+  }
+  .p_n{
+    right: -18px;
+  } 
+  /* slider end */
+  /* importent section start */
+  .importent {
+    margin: 120px 0 150px;
+  }
+  .im_text h1 {
+    font-size: 62px;
+  }
+  .im_text p {
+    margin: 16px 0 60px;
+    padding-right: 75px;
+  }
+  .im_img img {
+    width: 81%;
+  }
+  /* importent section end */
+  /* feature start */
+  .feature {
+    padding-bottom: 120px;
+  }
+  .f_b {
+    margin: 15px 30px 0px;
+    padding: 10px 10px;
+  }
+  .left_blank {
+    margin: 30px -16px -100px;
+    height: 65px;
+  }
+  .right_blank{
+    margin: -108px 466px 33px;
+    height: 65px;
+  }
+  .p_icon {
+    padding: 7px;
+  }
+  .icon_b {
+    font-size: 80px;
+  }
+  .p_icon_text {
+    padding: 15px 22px 15px 0px;
+  }
+  .p_icon_text h2 {
+    font-size: 28px;
+  }
+  .p_icon_text p {
+    line-height: 20px;
+  }
+  /* feature end */
+  /* tips start */
+  .tips {
+    margin: 60px 0 50px;
+  }
+  .t_h p {
+    padding-right: 82px;
+    text-align: justify;
+    line-height: 23px;
+  }
+  .tips_one {
+    padding: 36px;
+  }
+  /* tips end */
+  /* mosque day start */
+  .mosque_day {
+    height: 750px;
+  }
+  .mosq_text {
+    margin-top: 125px;
+  }
+  .mosq_text a {
+    margin-top: 45px;
+  }
+  /* mosque day end */
+  /* footer start */
+  .fo_h {
+    font-size: 92px;
+  }
+  .fo_a {
+    margin: 60px 0 0 0px;
+  }
+  footer p {
+    padding: 40px;
+  }
+  /* footer end */
+}
+
+/*  Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+  /* tips start */
+  .t_h h1 {
+    padding-right: 100px;
+  }
+  .t_h p {
+    padding-right: 200px;
+    text-align: justify;
+    line-height: 23px;
+  }
+  /* tips end */
+}
